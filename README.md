@@ -13,11 +13,7 @@ clone the repo
 
 ## ScreenShots
 <img src="3d/Unity 2017.4.40f1 Personal (64bit) - همث.unity - ile - PC, Mac & Linux Standalone _DX11_ 12_9_2024 10_03_31 PM.png" width="50%" /><br /> <br />
-<video width="400" >
-  <source src="3d/Unity 2017.4.40f1 Personal (64bit) - همث.unity - ile - PC, Mac & Linux Standalone _DX11_ 2024-12-09 20-07-26.mp4" type="video/mp4">
-</video>
-
-
+https://github.com/user-attachments/assets/187d01c1-b8ec-4aa7-ae53-d6cf53bcc3cf
 
 
 
