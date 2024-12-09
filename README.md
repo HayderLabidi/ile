@@ -5,7 +5,7 @@
 ## Quick Start 
 clone the repo
 ```
-    git clone https://github.com/HayderLabidi/Travel_app.git
+    git clone https://github.com/HayderLabidi/ile.git
 ```
 
 
